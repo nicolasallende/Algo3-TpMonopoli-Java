@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<cargaCompania>
+    <nombre>Aysa</nombre>
+    <precio>30000</precio>
+    <multiplicador>300</multiplicador>
+    <multiplicador2>500</multiplicador2>
+    <companiaRelacionada>Edesur</companiaRelacionada>
+</cargaCompania>

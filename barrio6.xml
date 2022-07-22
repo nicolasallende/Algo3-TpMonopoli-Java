@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<cargaBarrio>
+    <nombre>Salta Sur</nombre>
+    <precio>23000</precio>
+    <alquiler>2000</alquiler>
+    <alquiler1Casa>3250</alquiler1Casa>
+    <alquiler2Casas>3850</alquiler2Casas>
+    <alquilerConHotel>5500</alquilerConHotel>
+    <construirCasa>4500</construirCasa>
+    <construirHotel>7500</construirHotel>
+    <relacionado>true</relacionado>
+</cargaBarrio>

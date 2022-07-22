@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<cargaBarrio>
+    <nombre>Buenos Aires Sur</nombre>
+    <precio>20000</precio>
+    <alquiler>2000</alquiler>
+    <alquiler1Casa>3000</alquiler1Casa>
+    <alquiler2Casas>3500</alquiler2Casas>
+    <alquilerConHotel>5000</alquilerConHotel>
+    <construirCasa>5000</construirCasa>
+    <construirHotel>8000</construirHotel>
+    <relacionado>true</relacionado>
+</cargaBarrio>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<cargaCompania>
+    <nombre>Subte</nombre>
+    <precio>40000</precio>
+    <multiplicador>600</multiplicador>
+    <multiplicador2>1100</multiplicador2>
+    <companiaRelacionada>Trenes</companiaRelacionada>
+</cargaCompania>

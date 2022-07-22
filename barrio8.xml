@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<cargaBarrio>
+    <nombre>Tucuman</nombre>
+    <precio>25000</precio>
+    <alquiler>2500</alquiler>
+    <alquiler1Casa>4500</alquiler1Casa>
+    <alquiler2Casas>0</alquiler2Casas>
+    <alquilerConHotel>0</alquilerConHotel>
+    <construirCasa>7000</construirCasa>
+    <construirHotel>0</construirHotel>
+    <relacionado>false</relacionado>
+</cargaBarrio>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<cargaBarrio>
+    <nombre>Cordoba Norte</nombre>
+    <precio>20000</precio>
+    <alquiler>1300</alquiler>
+    <alquiler1Casa>1800</alquiler1Casa>
+    <alquiler2Casas>2900</alquiler2Casas>
+    <alquilerConHotel>3500</alquilerConHotel>
+    <construirCasa>2200</construirCasa>
+    <construirHotel>3500</construirHotel>
+    <relacionado>true</relacionado>
+</cargaBarrio>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<cargaBarrio>
+    <nombre>Neuquen</nombre>
+    <precio>17000</precio>
+    <alquiler>1800</alquiler>
+    <alquiler1Casa>3800</alquiler1Casa>
+    <alquiler2Casas>0</alquiler2Casas>
+    <alquilerConHotel>0</alquilerConHotel>
+    <construirCasa>4800</construirCasa>
+    <construirHotel>0</construirHotel>
+    <relacionado>false</relacionado>
+</cargaBarrio>
