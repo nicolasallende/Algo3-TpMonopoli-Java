@@ -1,0 +1,17 @@
+.contenedor-datos {
+	-fx-background-color: cornflowerblue;
+	-fx-max-width: 10%;
+	-fx-padding: 30px 60px;
+	-fx-start-margin: 10px;
+
+}
+
+.contenedor-inferior-jugadores {
+	-fx-background-color: darkslategrey;
+	-fx-max-width: 10%;
+	-fx-translate-y: 705px;
+	-fx-translate-x: 250px;
+	-fx-font-weight: normal;
+	-fx-font-size:15px;
+	-fx-padding:30px;
+}
